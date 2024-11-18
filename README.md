@@ -19,5 +19,8 @@
 4) i clicked on the cleaned data then went to insert the created a pivot table on a new sheet then extracted library name to roles and libary street to values which changed to count on on both of them then visualised it in a bar chat format then designed it and added a titel as number of outlets then clicked a posted it on the dash board 
 5) then went back to my cleaned date and created a new pivot tabel in a new sheet and extracted occupation placed it in role then gender in colum and gender in values then visualised it in chat format  add a titel as gender review then copyed and pasted it in the sheet with the dash baord which i named it gender review the copyed and pasted it on dash boards 
 6) clicked on the cleaned data again then created a pivot tabel in a nex sheet and extracted titel in roles and price in value then visualised it in a chat format  added an header as sales of commodity then copyed it and pasted it on the dash baord
-7) clicked on the cleaned data again then created a pivot tabel in a nex sheet and extracted occupation on roles and gender review on colum the age on values then visualised it in a chat format then add titel and copyed ancd pasted in the dash board
-8) 
+7) clicked on the cleaned data again then created a pivot tabel in a nex sheet and extracted occupation on roles and gender review on colum the age on values then visualised it in a chat format then add titel as age interest then copyed and pasted in the dash board
+8) clicked on the cleaned data again then created a pivot tabel in a nex sheet and extracted published date in role and check out date in values then added the titel as trading on sales  then copyed it and pasted it on the dash baord
+9) clicked on the cleaned data again then created a pivot tabel in a nex sheet and extracted street address in role and occupartion in colum and same in values then added the titel as location on customer reviews then copyed it and pasted it on the dash baord
+## how it looks likes after all steps
+()[]
