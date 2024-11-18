@@ -23,4 +23,5 @@
 8) clicked on the cleaned data again then created a pivot tabel in a nex sheet and extracted published date in role and check out date in values then added the titel as trading on sales  then copyed it and pasted it on the dash baord
 9) clicked on the cleaned data again then created a pivot tabel in a nex sheet and extracted street address in role and occupartion in colum and same in values then added the titel as location on customer reviews then copyed it and pasted it on the dash baord
 ## how it looks likes after all steps
-()[]
+(solution)[https://github.com/Smd419/data-cleaning-and-dashboard-/blob/main/image/after%20effects%20of%20the%20data%20dashboard%20.png]
+# DONE
