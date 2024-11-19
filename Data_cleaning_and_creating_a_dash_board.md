@@ -10,8 +10,10 @@
 6) went to all the colum that as date and clicked on the coner to correct all the error 
 7) then created another colum in front of genter occupation and education and use =proper for all of it 
 8) street and created a new colum by insert the on the nwe one typed =trim to remove all the the unusefull space 
-9) !(befor image)[https://github.com/Smd419/data-cleaning-and-dashboard-/blob/main/image/before%20excel%20.png]
- 10) !(after image)[https://github.com/Smd419/data-cleaning-and-dashboard-/blob/main/image/after%20excel.png]
+9) 
+!(befor image)[https://github.com/Smd419/data-cleaning-and-dashboard-/blob/main/image/before%20excel%20.png]
+ 10) 
+ !(after image)[https://github.com/Smd419/data-cleaning-and-dashboard-/blob/main/image/after%20excel.png]
 
 ### creating a dash board
 1) created a new sheet then highlited from E1 to U5  then clicked on merge and center
@@ -24,5 +26,6 @@
 8) clicked on the cleaned data again then created a pivot tabel in a nex sheet and extracted published date in role and check out date in values then added the titel as trading on sales  then copyed it and pasted it on the dash baord
 9) clicked on the cleaned data again then created a pivot tabel in a nex sheet and extracted street address in role and occupartion in colum and same in values then added the titel as location on customer reviews then copyed it and pasted it on the dash baord
 ## how it looks likes after all steps
+
 !(solution)[https://github.com/Smd419/data-cleaning-and-dashboard-/blob/main/image/after%20effects%20of%20the%20data%20dashboard%20.png]
 # DONE
