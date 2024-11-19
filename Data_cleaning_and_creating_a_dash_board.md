@@ -3,6 +3,7 @@
 
 ### step one cleaning your data
 1) copy original data and paste in a new work sheet for cleaning
+![befor](https://github.com/Smd419/data-cleaning-and-dashboard-/blob/main/image/test%201.png)![arrow](https://github.com/Smd419/data-cleaning-and-dashboard-/blob/main/image/arrow%20.png)![after](https://github.com/Smd419/data-cleaning-and-dashboard-/blob/main/image/test%202.png)
 2) went to id then click on find and select then replaced the = to space
 3) then went to library name then inserted a new colum in between c and d then by inserted in created a new colum then on the new one typed =proper then clicked on the text then enter, after double clicking on the coner it filled in everthing then copyed nd pasted in value so my work will no clear when i delete the original text 
 4) then went to published and double clicked on it to remove the ash 
